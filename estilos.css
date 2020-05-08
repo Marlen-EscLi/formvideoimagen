@@ -12,3 +12,34 @@ form.form{
     color: #000003;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+.recuadro{
+    font-size: 15px;
+    margin-bottom: 15px;
+
+}
+label{
+    padding-right: 5px;
+}
+.boton{
+    color: rgb(235, 29, 2);
+    background-color: rgb(228, 215, 215);
+    
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f7c5a8;
+    padding: 25px;
+    width: 35%;
+    margin: 10px;
+}
+ol{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f7c5a8;
+    padding: 25px;
+    width: 35%;
+    margin: 10px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
